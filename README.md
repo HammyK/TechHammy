@@ -1,4 +1,4 @@
-![thumb_github](https://github.com/TechHammy/TechHammy/assets/72169186/6aa744a0-83cf-4c84-a77f-54b298cda060)
+![GitHub Logo](https://github.com/username/repository/raw/branch/folder/image.png)
 
 <p align="center">
  
