@@ -1,10 +1,9 @@
 ![image](https://github.com/TechHammy/TechHammy/assets/72169186/0c94b685-22fa-456a-9caf-03a9c599a560)
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/TechHammy/TechHammy"/> 
-  <!-- <img src="https://badges.pufler.dev/years/TechHammy"/> -->
-  <img src="https://badges.pufler.dev/repos/TechHammy"/>
-  <img src="https://badges.pufler.dev/commits/monthly/TechHammy" />
+  <img src="https://badges.pufler.dev/visits/TechHammy/TechHammy" style="filter: invert(67%) sepia(68%) saturate(2814%) hue-rotate(248deg) brightness(89%) contrast(89%);"/> 
+  <img src="https://badges.pufler.dev/repos/TechHammy" style="filter: invert(67%) sepia(68%) saturate(2814%) hue-rotate(248deg) brightness(89%) contrast(89%);"/>
+  <img src="https://badges.pufler.dev/commits/monthly/TechHammy" style="filter: invert(67%) sepia(68%) saturate(2814%) hue-rotate(248deg) brightness(89%) contrast(89%);"/>
 </p>
 
 <p align="center">
