@@ -1,4 +1,3 @@
-</p align="center">
 ![thumb_github](https://github.com/TechHammy/TechHammy/assets/72169186/6aa744a0-83cf-4c84-a77f-54b298cda060)
 
 <p align="center">
