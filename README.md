@@ -1,4 +1,6 @@
-![GitHub Logo](https://github.com/username/repository/raw/branch/folder/image.png)
+
+<img src="[Direct_Image_URL](https://github.com/username/repository/raw/branch/folder/image.png)" alt="Image Description" width="500" height="300">
+
 
 <p align="center">
  
