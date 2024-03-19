@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-
+<!--
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="40"></h2>
 
 <p align="center">
@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/-TechHammy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/TechHammy/"/>
   </a>
 </p>
-
+-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechHammy&show_icons=true&theme=radical&line_height=27">
