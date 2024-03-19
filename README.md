@@ -29,7 +29,7 @@
   <a href="mailto:humzakhan.ldn@gmail.com">
     <img src="https://img.shields.io/badge/-TechHammy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humzakhan.ldn@gmail.com"/>
   </a>
-  <a href="https://www.linkedin.com/in/TechHammy-698a18142/">
+   <a href="https://www.linkedin.com/in/TechHammy-698a18142/">
     <img src="https://img.shields.io/badge/-TechHammy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/TechHammy/"/>
   </a>
 </p>
@@ -42,7 +42,7 @@
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
-<br>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechHammy&show_icons=true&theme=radical&line_height=27">
