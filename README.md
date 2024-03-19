@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
-
-  
 </p>
 
 <!--
@@ -53,16 +51,29 @@
 
 
 
-<div align="center">
-  <div style="background-color: #674E95; color: white; padding: 20px; border-radius: 5px; font-family: Arial, sans-serif; width: 300px;">
-    <p>Passport Prodigy</p>
-    <p>Dance Enthusiast</p>
-    <p>Music Lover</p>
-    <p>Boxing Passion</p>
-    <p>Ex Air-Cadet</p>
-    <p>Passion for the Skies</p>
-    <p>AI Enthusiast</p>
-    <p>Lifelong Learner</p>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Passport%20Prodigy-674E95?style=flat-square"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dance%20Enthusiast-674E95?style=flat-square"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Music%20Lover-674E95?style=flat-square"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Boxing%20Passion-674E95?style=flat-square"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ex%20Air--Cadet-674E95?style=flat-square"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Passion%20for%20the%20Skies-674E95?style=flat-square"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-674E95?style=flat-square"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-674E95?style=flat-square"/>
+</p>
+
 
