@@ -55,25 +55,25 @@
   <img src="https://img.shields.io/badge/Passport%20Prodigy-674E95?style=flat-square"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Dance%20Enthusiast-674E95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dance%20Enthusiast-FF69B4?style=flat-square"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Music%20Lover-674E95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Music%20Lover-1ED760?style=flat-square"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Boxing%20Passion-674E95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Boxing%20Passion-FF4500?style=flat-square"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Ex%20Air--Cadet-674E95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ex%20Air--Cadet-4169E1?style=flat-square"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Passion%20for%20the%20Skies-674E95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Passion%20for%20the%20Skies-87CEEB?style=flat-square"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-674E95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-FF1493?style=flat-square"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-674E95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-32CD32?style=flat-square"/>
 </p>
 
 
