@@ -7,9 +7,9 @@
   <img src="https://badges.pufler.dev/commits/monthly/TechHammy" />
 </p>
 
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
+<p align="center">
+   I'm Humza Khan 🌟, a seasoned finance professional with over 14 years of asset management expertise. Whether it's crunching numbers, crafting client reports, or leading global standardization efforts 🌍, I've got you covered! With a master's in data science 📊 and a CFA under my belt, I bring precision and innovation to every project. Beyond finance, I'm a globe-trotter ✈️, a boxing champ 🥊, and an AI enthusiast 🤖. Let's embark on this journey where finance meets passion! 🚀
+</p> 
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
