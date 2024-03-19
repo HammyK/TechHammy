@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/TechHammy/TechHammy"/> 
-  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+  <!-- <img src="https://badges.pufler.dev/years/TechHammy"/> -->
   <img src="https://badges.pufler.dev/repos/TechHammy"/>
   <img src="https://badges.pufler.dev/commits/monthly/TechHammy" />
 </p>
