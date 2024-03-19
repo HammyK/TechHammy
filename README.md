@@ -10,7 +10,7 @@
    I'm Humza Khan 🌟, a seasoned finance professional with over 14 years of asset management expertise. Whether it's crunching numbers, crafting client reports, or leading global standardization efforts 🌍, I've got you covered! With a master's in data science 📊 and a CFA under my belt, I bring precision and innovation to every project. Beyond finance, I'm a globe-trotter ✈️, a boxing champ 🥊, and an AI enthusiast 🤖. Let's embark on this journey where finance meets passion! 🚀
 </p> 
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40"></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="30"></h2>
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="40"></h2>
 
 <p align="center">
   <a href="mailto:humzakhan.ldn@gmail.com">
