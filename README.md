@@ -1,4 +1,4 @@
-<h2 align="center">Reach me out on <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*-OcAyhM1KNfdumH6cuLehw.gif" width="50"></h2>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*-OcAyhM1KNfdumH6cuLehw.gif" width="50"></h2>
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/TechHammy/TechHammy"/> 
