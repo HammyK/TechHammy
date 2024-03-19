@@ -10,6 +10,17 @@
    I'm Humza Khan 🌟, a seasoned finance professional with over 14 years of asset management expertise. Whether it's crunching numbers, crafting client reports, or leading global standardization efforts 🌍, I've got you covered! With a master's in data science 📊 and a CFA under my belt, I bring precision and innovation to every project. Beyond finance, I'm a globe-trotter ✈️, a boxing champ 🥊, and an AI enthusiast 🤖. Let's embark on this journey where finance meets passion! 🚀
 </p> 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Passport%20Prodigy-674E95?style=flat-square&color=674E95"/>
+  <img src="https://img.shields.io/badge/Dance%20Enthusiast-674E95?style=flat-square&color=674E95"/>
+  <img src="https://img.shields.io/badge/Music%20Lover-674E95?style=flat-square&color=674E95"/>
+  <img src="https://img.shields.io/badge/Boxing%20Passion-674E95?style=flat-square&color=674E95"/>
+  <img src="https://img.shields.io/badge/Ex%20Air--Cadet-674E95?style=flat-square&color=674E95"/>
+  <img src="https://img.shields.io/badge/Passion%20for%20the%20Skies-674E95?style=flat-square&color=674E95"/>
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-674E95?style=flat-square&color=674E95"/>
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-674E95?style=flat-square&color=674E95"/>
+</p>
+
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40"></h2>
 
 <p align="center">
@@ -51,16 +62,6 @@
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Passport%20Prodigy-674E95?style=flat-square&color=674E95"/>
-  <img src="https://img.shields.io/badge/Dance%20Enthusiast-674E95?style=flat-square&color=674E95"/>
-  <img src="https://img.shields.io/badge/Music%20Lover-674E95?style=flat-square&color=674E95"/>
-  <img src="https://img.shields.io/badge/Boxing%20Passion-674E95?style=flat-square&color=674E95"/>
-  <img src="https://img.shields.io/badge/Ex%20Air--Cadet-674E95?style=flat-square&color=674E95"/>
-  <img src="https://img.shields.io/badge/Passion%20for%20the%20Skies-674E95?style=flat-square&color=674E95"/>
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-674E95?style=flat-square&color=674E95"/>
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-674E95?style=flat-square&color=674E95"/>
-</p>
 
 
 
