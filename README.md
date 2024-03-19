@@ -10,7 +10,7 @@
    I'm Humza Khan 🌟, a seasoned finance professional with over 14 years of asset management expertise. Whether it's crunching numbers, crafting client reports, or leading global standardization efforts 🌍, I've got you covered! With a master's in data science 📊 and a CFA under my belt, I bring precision and innovation to every project. Let's embark on this journey where finance meets passion! 🚀
 </p>  
 
-<h2 align="center">Beyond Finance<img src= https://github.com/TechHammy/TechHammy/assets/72169186/76b046e4-2793-4af5-a0e2-6817ab974974 width="40"></h2>
+<h2 align="center">Beyond Finance<img src= https://github.com/TechHammy/TechHammy/assets/72169186/0ac065a4-e242-49ca-a1c7-1561eb4c8bba width="40"></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Passport%20Prodigy-674E95?style=flat-square&color=674E95"/>
