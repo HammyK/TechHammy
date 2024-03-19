@@ -1,5 +1,4 @@
-![image](https://github.com/TechHammy/TechHammy/assets/72169186/d22095f6-b01b-4f9e-bab2-2df72ff70184)
-
+<h2 align="center">Reach me out on <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*-OcAyhM1KNfdumH6cuLehw.gif" width="50"></h2>
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/TechHammy/TechHammy"/> 
