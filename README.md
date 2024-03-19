@@ -1,4 +1,4 @@
-hghg<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*-OcAyhM1KNfdumH6cuLehw.gif" width="50">
+![image](https://github.com/TechHammy/TechHammy/assets/72169186/0c94b685-22fa-456a-9caf-03a9c599a560)
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/TechHammy/TechHammy"/> 
