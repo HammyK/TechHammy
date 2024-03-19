@@ -40,8 +40,11 @@
 </p>
 
 
-<h2 align="center">
-[![TechHammy's Contribution Graph](https://github-contribution-grid-snake.herokuapp.com/graph?username=TechHammy)](https://github.com/TechHammy)
+<p align="center">
+  <a href="https://github.com/TechHammy">
+    <img src="https://github-contribution-grid-snake.herokuapp.com/graph?username=TechHammy" alt="Contribution Graph">
+  </a>
+</p>
 
 
 <h2 align="center">
