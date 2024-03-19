@@ -34,15 +34,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-contribution-grid-snake.herokuapp.com/graph?username=TechHammy" alt="Contribution Graph">
-</p>
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechHammy&show_icons=true&theme=radical&line_height=27">
