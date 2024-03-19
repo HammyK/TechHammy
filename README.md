@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="![thumb_github](https://github.com/TechHammy/TechHammy/assets/72169186/1697b2dc-85b3-4b64-858c-a00d244f9dac)" />
+<img src="https://github.com/TechHammy/TechHammy/assets/72169186/1697b2dc-85b3-4b64-858c-a00d244f9dac" />
 
 <p align="center">
  
