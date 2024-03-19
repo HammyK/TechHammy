@@ -1,5 +1,5 @@
-<img src="![image](https://github.com/TechHammy/TechHammy/assets/72169186/d22095f6-b01b-4f9e-bab2-2df72ff70184)
-" width="500" height="300">
+![image](https://github.com/TechHammy/TechHammy/assets/72169186/d22095f6-b01b-4f9e-bab2-2df72ff70184)
+
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/TechHammy/TechHammy"/> 
