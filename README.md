@@ -53,7 +53,6 @@
 
 
 
-```html
 <div style="background-color: #674E95; color: white; padding: 10px; border-radius: 5px; font-family: Arial, sans-serif;">
   <p>Passport Prodigy</p>
   <p>Dance Enthusiast</p>
