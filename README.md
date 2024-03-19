@@ -53,14 +53,16 @@
 
 
 
-<div style="background-color: #674E95; color: white; padding: 10px; border-radius: 5px; font-family: Arial, sans-serif;">
-  <p>Passport Prodigy</p>
-  <p>Dance Enthusiast</p>
-  <p>Music Lover</p>
-  <p>Boxing Passion</p>
-  <p>Ex Air-Cadet</p>
-  <p>Passion for the Skies</p>
-  <p>AI Enthusiast</p>
-  <p>Lifelong Learner</p>
+<div align="center">
+  <div style="background-color: #674E95; color: white; padding: 20px; border-radius: 5px; font-family: Arial, sans-serif; width: 300px;">
+    <p>Passport Prodigy</p>
+    <p>Dance Enthusiast</p>
+    <p>Music Lover</p>
+    <p>Boxing Passion</p>
+    <p>Ex Air-Cadet</p>
+    <p>Passion for the Skies</p>
+    <p>AI Enthusiast</p>
+    <p>Lifelong Learner</p>
+  </div>
 </div>
 
