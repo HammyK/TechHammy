@@ -40,11 +40,13 @@
 </p>
 
 
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
 <p align="center">
-  <a href="https://github.com/TechHammy">
-    <img src="https://github-contribution-grid-snake.herokuapp.com/graph?username=TechHammy" alt="Contribution Graph">
-  </a>
+  <img src="https://github-contribution-grid-snake.herokuapp.com/graph?username=TechHammy" alt="Contribution Graph">
 </p>
+
 
 
 <h2 align="center">
