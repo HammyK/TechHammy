@@ -53,25 +53,8 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GitHub README Box</title>
-<style>
-  .readme-box {
-    background-color: #674E95;
-    color: white;
-    padding: 10px;
-    border-radius: 5px;
-    font-family: Arial, sans-serif;
-  }
-</style>
-</head>
-<body>
-
-<div class="readme-box">
+```html
+<div style="background-color: #674E95; color: white; padding: 10px; border-radius: 5px; font-family: Arial, sans-serif;">
   <p>Passport Prodigy</p>
   <p>Dance Enthusiast</p>
   <p>Music Lover</p>
@@ -82,5 +65,3 @@
   <p>Lifelong Learner</p>
 </div>
 
-</body>
-</html>
