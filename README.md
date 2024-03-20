@@ -13,13 +13,12 @@
 <h2 align="center">Beyond Finance<img src= https://github.com/TechHammy/TechHammy/assets/72169186/0ac065a4-e242-49ca-a1c7-1561eb4c8bba width="40"></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Passport%20Prodigy-674E95?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Dance%20Enthusiast-443C70?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Music%20Lover-674E95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/World%20Traveller-674E95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Music%20Enthusiast-443C70?style=flat-square"/>
   <img src="https://img.shields.io/badge/Boxing%20Passion-443C70?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ex%20Air--Cadet-674E95?style=flat-square"/>
   <img src="https://img.shields.io/badge/Passion%20for%20the%20Skies-443C70?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-674E95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tech%20Savvy-674E95?style=flat-square"/>
   <img src="https://img.shields.io/badge/Lifelong%20Learner-443C70?style=flat-square"/>
 </p>
 
