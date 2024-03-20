@@ -60,12 +60,12 @@
   <a href="mailto:humzakhan.ldn@gmail.com">
     <img src="https://img.shields.io/badge/-TechHammy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humzakhan.ldn@gmail.com"/>
   </a>
-  <a href="https://www.linkedin.com/in/TechHammy-698a18142/">
-    <img src="https://img.shields.io/badge/-TechHammy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-khan-3468851b/"/>
-  </a>
-  <a href="https://medium.com/@TechHammy">
-    <img src="https://img.shields.io/badge/-TechHammy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@humzakhan.ldn"/>
-  </a>
+<a href="https://www.linkedin.com/in/hamza-khan-3468851b/">
+  <img src="https://img.shields.io/badge/-Hamza%20Khan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-khan-3468851b/"/>
+</a>
+<a href="https://medium.com/@humzakhan.ldn">
+  <img src="https://img.shields.io/badge/-Hamza%20Khan-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@humzakhan.ldn"/>
+</a>
 </p>
 
 
