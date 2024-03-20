@@ -66,6 +66,11 @@
 <a href="https://medium.com/@humzakhan.ldn">
   <img src="https://img.shields.io/badge/-Hamza%20Khan-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@humzakhan.ldn"/>
 </a>
+
+<a href="https://yourwebsite.com">
+  <img src="https://img.shields.io/badge/-Your%20Website-green?style=flat-square&logo=Internet%20Explorer&logoColor=white&link=https://yourwebsite.com"/>
+</a>
+
 </p>
 
 
