@@ -52,18 +52,23 @@
 
 
 
-<!--
+
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="40"></h2>
 
 <p align="center">
   <a href="mailto:humzakhan.ldn@gmail.com">
     <img src="https://img.shields.io/badge/-TechHammy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humzakhan.ldn@gmail.com"/>
   </a>
-   <a href="https://www.linkedin.com/in/TechHammy-698a18142/">
+  <a href="https://www.linkedin.com/in/TechHammy-698a18142/">
     <img src="https://img.shields.io/badge/-TechHammy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/TechHammy/"/>
   </a>
+  <a href="https://medium.com/@TechHammy">
+    <img src="https://img.shields.io/badge/-TechHammy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@TechHammye"/>
+  </a>
 </p>
--->
+
+
+
 <br>
 
 <p align="center">
