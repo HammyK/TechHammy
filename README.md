@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   I'm Humza Khan 🌟, a seasoned finance professional with over 14 years of asset management expertise. Whether it's crunching numbers, crafting client reports, or leading global standardization efforts 🌍, I've got you covered! With a master's in data science 📊 and a CFA under my belt, I bring precision and innovation to every project. Let's embark on this journey where finance meets passion! 🚀
+   I'm Humza Khan 🌟, a seasoned finance professional with over 14 years of asset management expertise. Whether it's crunching numbers, crafting client reports, or leading global standardization efforts 🌍, I've got you covered! With a master's in data science 📊 and having passed all three levels of the CFA program, I bring precision and innovation to every project. Let's embark on this journey where finance meets passion! 🚀
 </p>  
 
 <h2 align="center">Beyond Finance<img src= https://github.com/TechHammy/TechHammy/assets/72169186/0ac065a4-e242-49ca-a1c7-1561eb4c8bba width="40"></h2>
