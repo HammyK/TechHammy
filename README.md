@@ -24,7 +24,6 @@
 </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40"></h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white"/>
@@ -36,6 +35,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+<h2 align="center">Financial Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40"></h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Blackrock%20Aladdin-000000?style=flat-square&logo=blackrock&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bloomberg-54595D?style=flat-square&logo=bloomberg&logoColor=white"/>
   <img src="https://img.shields.io/badge/B--One-003049?style=flat-square&logo=boeing&logoColor=white"/>
@@ -49,8 +52,6 @@
   <img src="https://img.shields.io/badge/StatPro-4F0F3A?style=flat-square&logo=statpro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thomson%20Reuters%20Eikon-FF8000?style=flat-square&logo=thomson-reuters&logoColor=white"/>
 </p>
-
-
 
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="40"></h2>
