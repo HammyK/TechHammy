@@ -36,7 +36,20 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blackrock%20Aladdin-000000?style=flat-square&logo=blackrock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bloomberg-000000?style=flat-square&logo=bloomberg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B--One-000000?style=flat-square&logo=boeing&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Stream-000000?style=flat-square&logo=datastax&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FactSet-000000?style=flat-square&logo=factset&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IMS%20Caps-000000?style=flat-square&logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSCI%20Barra-000000?style=flat-square&logo=msci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Morningstar-000000?style=flat-square&logo=morningstar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Northern%20Trust%20Radar-000000?style=flat-square&logo=northern-trust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rimes-000000?style=flat-square&logo=rime&logoColor=white"/>
+  <img src="https://img.shields.io/badge/StatPro-000000?style=flat-square&logo=statpro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thomson%20Reuters%20Eikon-000000?style=flat-square&logo=thomson-reuters&logoColor=white"/>
 </p>
+
 
 <!--
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="40"></h2>
