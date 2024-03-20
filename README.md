@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-<h2 align="center">Financial Stack <img src="https://github.com/TechHammy/TechHammy/assets/72169186/ac9d95ea-5450-4e9b-96f9-014bec2b2426" width="600"></h2>
+<h2 align="center">Financial Stack <img src="https://github.com/TechHammy/TechHammy/assets/72169186/ac9d95ea-5450-4e9b-96f9-014bec2b2426" width="60"></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Blackrock%20Aladdin-000000?style=flat-square&logo=blackrock&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bloomberg-54595D?style=flat-square&logo=bloomberg&logoColor=white"/>
