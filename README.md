@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/-TechHammy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@humzakhan.ldn"/>
 </a>
 
-<a href="https://yourwebsite.com">
+<a href="[https://yourwebsite.com](https://humzakhan.co.uk/)">
   <img src="https://img.shields.io/badge/-TechHammy%20Website-purple?style=flat-square&logo=Internet%20Explorer&logoColor=white&link=https://yourwebsite.com"/>
 </a>
 
