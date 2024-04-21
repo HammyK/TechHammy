@@ -62,8 +62,8 @@
 <a href="https://www.linkedin.com/in/hamza-khan-3468851b/">
   <img src="https://img.shields.io/badge/-TechHammy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-khan-3468851b/"/>
 </a>
-<a href="https://medium.com/@humzakhan.ldn">
-  <img src="https://img.shields.io/badge/-TechHammy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@humzakhan.ldn"/>
+<a href="https://medium.com/@hammyK">
+  <img src="https://img.shields.io/badge/-TechHammy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@hammyK"/>
 </a>
 
 <a href="https://humzakhan.co.uk/">
